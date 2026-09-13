@@ -11,7 +11,7 @@ const Hero = () => {
           {/* Left Side */}
           <div className="w-full md:w-1/2">
 
-            <h1 className="text-4xl font-bold leading-tight text-gray-900 md:text-5xl lg:text-6xl">
+            <h1 className="text-4xl font-bold leading-tight text-gray-900 md:text-5xl lg:text-5xl">
 
               Build Your Ideal
               <br />
