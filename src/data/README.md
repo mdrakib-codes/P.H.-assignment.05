@@ -23,7 +23,7 @@ Technologies Used :-
 3. Responsive design with loading states and toast notifications
    for add, duplicate, remove, and remove-all actions.
 
- React Questions
+React Questions :-
 
 1. What is JSX, and why is it used in React?
 
